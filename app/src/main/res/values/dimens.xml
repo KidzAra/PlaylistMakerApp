@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_menu_button_icons">24dp</dimen>
+    <dimen name="main_menu_button_text">25sp</dimen>
+    <dimen name="settings_button_linear_layout">70sp</dimen>
+    <dimen name="ui_button_text">20dp</dimen>
+</resources>
